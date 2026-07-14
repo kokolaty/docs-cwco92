@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-z642zv.cinthyanoda.com/sitemap.xml
